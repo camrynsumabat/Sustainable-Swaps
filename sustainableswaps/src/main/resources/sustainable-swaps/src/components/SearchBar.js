@@ -25,12 +25,12 @@ const SearchBar = ({setSearchQuery}) => {
                                 name={"keywords"}
                                 />
 
-                                <Button
+                                <button
                                     variant="outline-dark"
                                     id="button-addon2"
                                     type="submit">
                                     Search
-                                </Button>
+                                </button>
 
                         </form>
                     </InputGroup>
